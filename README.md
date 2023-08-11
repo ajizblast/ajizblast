@@ -6,9 +6,9 @@
 👨‍💻 Passionate about creating innovative and scalable web applications with a focus on user experience. I enjoy tackling complex challenges and turning them into elegant solutions. 
 
 🌐 Proficient in a range of technologies, including:
-   - Frontend: HTML, CSS, JavaScript (React, Next)
-   - Backend: Node.js, Golang (Echo, Fiber)
-   - Database: PostgreSQL, MySQL, MongoDB
+   - Frontend: HTML, CSS, JavaScript (React JS)
+   - Backend: Node.js, Golang (Echo)
+   - Database: PostgreSQL, MySQL
 
 📚 Constantly learning and exploring new technologies to stay up-to-date with industry trends. I believe in the power of open-source and actively contribute to the community.
 
