@@ -26,10 +26,10 @@
 </a>
 </p>
 
-<h2 align="left">📊 GitHub Stats: <img align="right" src="https://komarev.com/ghpvc/?username=micodee&label=Profile%20views&color=0e75b6&style=flat" alt="micodee" /></h2>
+<h2 align="left">📊 GitHub Stats: <img align="right" src="https://komarev.com/ghpvc/?username=ajizblast&label=Profile%20views&color=0e75b6&style=flat" alt="ajizblast" /></h2>
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micodee&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=micodee&theme=radical&hide_border=true" alt="GitHub Streak">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajizblast&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ajizblast&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 <h2 align="left">👨‍💻 Skills:</h2>
