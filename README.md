@@ -19,11 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chahyo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micodee" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajizblast" height="30" width="40" />
 </a>
 <a href="https://instagram.com/ajizblast" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raelredd" height="30" width="40" />
 </a>
+   <a href="https://dribbble.com/cpacreature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cpacreature" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajizblast" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">📊 GitHub Stats: <img align="right" src="https://komarev.com/ghpvc/?username=ajizblast&label=Profile%20views&color=0e75b6&style=flat" alt="ajizblast" /></h2>
@@ -94,24 +96,3 @@
     </tr>
   </tbody>
 </table>
-
-
-
-
-<!--
-https://github.com/tandpfun/skill-icons
----
-[![](https://visitcount.itsvg.in/api?id=micodee&icon=0&color=0)](https://visitcount.itsvg.in)
-**micodee/micodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
