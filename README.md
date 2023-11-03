@@ -28,6 +28,12 @@
 <a href="https://www.leetcode.com/ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajizblast" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Problem Solving</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/@ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ajizblast" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajizblast" height="30" width="40" /></a>
+</p>
+
 <h2 align="left">📊 GitHub Stats: <img align="right" src="https://komarev.com/ghpvc/?username=ajizblast&label=Profile%20views&color=0e75b6&style=flat" alt="ajizblast" /></h2>
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajizblast&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
