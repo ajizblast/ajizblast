@@ -1,104 +1,123 @@
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" style="width: 30px; vertical-align: middle;"> I'm Chahyo Purnomo Aji</h1>
-
-
-🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast
-
-👨‍💻 Passionate about creating innovative and scalable web applications with a focus on user experience. I enjoy tackling complex challenges and turning them into elegant solutions. 
-
-🌐 Proficient in a range of technologies, including:
-   - Frontend: HTML, CSS, JavaScript (React JS)
-   - Backend: Node.js, Golang (Echo)
-   - Database: PostgreSQL, MySQL
-
-📚 Constantly learning and exploring new technologies to stay up-to-date with industry trends. I believe in the power of open-source and actively contribute to the community.
-
-🎯 Let's collaborate and build something amazing together! Feel free to check out my repositories and drop me a message.
-
-📫 You can reach me at **cp@aji.biz.id** or **ajizblast@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chahyo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajizblast" height="30" width="40" />
-</a>
-<a href="https://instagram.com/ajizblast" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raelredd" height="30" width="40" />
-</a>
-   <a href="https://dribbble.com/cpacreature" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cpacreature" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajizblast" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Problem Solving</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajizblast" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajizblast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajizblast" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">📊 GitHub Stats: <img align="right" src="https://komarev.com/ghpvc/?username=ajizblast&label=Profile%20views&color=0e75b6&style=flat" alt="ajizblast" /></h2>
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajizblast&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ajizblast&theme=radical&hide_border=true" alt="GitHub Streak">
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/l4KieGhm2pA2GL7XO/giphy.gif"  />
 </div>
 
-<h2 align="left">👨‍💻 Skills:</h2>
-<!-- <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.flutter.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Golang" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p> -->
+###
 
-<a href="https://github.com/ajizblast" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
+<div align="center">
+  <a href="htttps://linkedin.com/in/chahyo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://dribbble.com/cpacreature" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.behance.net/cpacreature" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ajizblast" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
 
-<h2 align="left">📚 Libraries:</h2>
-<table>
-  <thead>
-    <tr>
-      <th>For React</th>
-      <th>For Golang</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li><a href="https://react-hook-form.com/get-started/">react hook form</a></li>
-          <li><a href="https://www.npmjs.com/package/react-lazy-load-image-component">react lazy load image</a></li>
-          <li><a href="https://react-icons.github.io/react-icons/">react icons</a></li>
-          <li><a href="https://www.npmjs.com/package/react-infinite-scroll-hook">react infinite scroll hook</a></li>
-          <li><a href="https://www.react-spring.dev/docs/getting-started">react spring</a></li>
-          <li><a href="https://www.material-react-table.com/docs/getting-started/install/">material react table</a></li>
-          <li><a href="https://redux-toolkit.js.org/introduction/getting-started">redux toolkit</a></li>
-          <li><a href="https://sass-lang.com/install/">sass</a></li>
-        </ul>
-      </td>
-      <td>
-         <ul>
-            <li><a href="https://echo.labstack.com/docs/quick-start">framework echo</a></li>
-            <li><a href="https://docs.gofiber.io/">framework fiber</a></li>
-            <li><a href="https://github.com/joho/godotenv" title="for get env">get env</a></li>
-            <li><a href="https://github.com/golang-jwt/jwt" title="for jwt">jwt</a></li>
-            <li><a href="https://pkg.go.dev/golang.org/x/crypto/bcrypt" title="for hashed password">bcrypt</a></li>
-            <li><a href="https://gorm.io/index.html" title="object relational mapping">gorm</a></li>
-            <li><a href="https://github.com/go-playground/validator/" title="validation struct">validator</a></li>
-            <li><a href="https://github.com/midtrans/midtrans-go" title="payment gateway">midtrans payment gateway</a></li>
-         </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ajizblast.ajizblast&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast<br><br>👨‍💻 Passionate about creating innovative and scalable web applications with a focus on user experience. I enjoy tackling complex challenges and turning them into elegant solutions.<br><br>🌐 Proficient in a range of technologies, including:<br><br>Frontend: HTML, CSS, JavaScript (React JS)<br>Backend: Node.js, Golang (Echo)<br>Database: PostgreSQL, MySQL<br>📚 Constantly learning and exploring new technologies to stay up-to-date with industry trends. I believe in the power of open-source and actively contribute to the community.<br><br>🎯 Let's collaborate and build something amazing together! Feel free to check out my repositories and drop me a message.<br><br>📫 You can reach me at cp@aji.biz.id or ajizblast@gmail.com</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajizblast&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ajizblast&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ajizblast/ajizblast/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG10Z3ZteGI4a29zZWI0Mmpybm83ejhlam8ybDYzM2lpbGk2a2QxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oAY8P8H2B41icPdRqA/giphy.gif"  />
+</div>
+
+###
